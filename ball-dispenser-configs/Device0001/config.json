@@ -1,6 +1,6 @@
 [
-  { "label": "£2 - 25 BALLS", "pulses": 5 },
-  { "label": "£4 - 50 BALLS", "pulses": 10 },
-  { "label": "£6 - 75 BALLS", "pulses": 15 },
-  { "label": "£8 - 100 BALLS", "pulses": 20 }
+  { "label": "£1 - 25 BALLS", "pulses": 5 },
+  { "label": "£2 - 50 BALLS", "pulses": 10 },
+  { "label": "£3 - 75 BALLS", "pulses": 15 },
+  { "label": "£4 - 100 BALLS", "pulses": 20 }
 ]
