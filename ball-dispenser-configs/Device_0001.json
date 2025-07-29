@@ -1,6 +1,6 @@
-ball_dispenser_name = "EGM Test Unit 1"
-
 [
+  ball_dispenser_name = "EGM Test Unit 1"
+
   { "label": "£2 - 25 BALLS", "pulses": 5 },
   { "label": "£4 - 50 BALLS", "pulses": 10 },
   { "label": "£6 - 75 BALLS", "pulses": 15 },
