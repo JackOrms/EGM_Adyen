@@ -1,18 +1,18 @@
 {
-  "pulseOn": 0.5,
-  "pulseOff": 0.5,
+  "pulseOn": 0.15,
+  "pulseOff": 0.15,
   "defaultRelay": 1,
   "items": [
     {
-      "label": "30 Balls - £3.75",
+      "label": "30 Balls > £3.75",
       "pulses": 6
     },
     {
-      "label": "60 Balls - £7.00",
+      "label": "60 Balls > £7.00",
       "pulses": 12
     },
     {
-      "label": "90 Balls - £10.00",
+      "label": "90 Balls > £10.00",
       "pulses": 18
     },
     {
