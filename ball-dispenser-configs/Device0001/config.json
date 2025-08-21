@@ -1,6 +1,24 @@
-[
-  { "label": "£2 - 35 BALLS", "pulses": 7 },
-  { "label": "£4 - 50 BALLS", "pulses": 10 },
-  { "label": "£6 - 75 BALLS", "pulses": 15 },
-  { "label": "£8 - 100 BALLS", "pulses": 20 }
-]
+{
+  "pulseOn": 0.15,
+  "pulseOff": 0.15,
+  "defaultRelay": 1,
+  "items": [
+    {
+      "label": "25 Balls - £2.00",
+      "pulses": 25
+    },
+    {
+      "label": "50 Balls - £3.50",
+      "pulses": 50
+    },
+    {
+      "label": "75 Balls - £5.00",
+      "pulses": 75
+    },
+    {
+      "label": "SPECIAL (Relay 2)",
+      "pulses": 5,
+      "relay": 2
+    }
+  ]
+}
