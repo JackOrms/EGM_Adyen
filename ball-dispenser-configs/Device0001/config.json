@@ -1,4 +1,6 @@
- { "label": "£2 - 35 BALLS", "pulses": 7 },
+[
+  { "label": "£2 - 35 BALLS", "pulses": 7 },
   { "label": "£4 - 50 BALLS", "pulses": 10 },
   { "label": "£6 - 75 BALLS", "pulses": 15 },
   { "label": "£8 - 100 BALLS", "pulses": 20 }
+]
